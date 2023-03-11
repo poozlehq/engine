@@ -11,3 +11,6 @@ storage
 .mesh
 
 .meshrc.yml
+
+index.js
+envelopPlugins.js

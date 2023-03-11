@@ -182,6 +182,7 @@ async function main(): Promise<null> {
     serve: {
       playground: true,
     },
+    additionalEnvelopPlugins: './envelopPlugins',
   };
 
   // Write the yaml to meshrc which is used to create the server
